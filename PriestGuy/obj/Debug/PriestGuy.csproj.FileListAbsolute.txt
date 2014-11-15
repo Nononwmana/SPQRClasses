@@ -1,0 +1,8 @@
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\Builds\PriestGuy.dll
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\Builds\PriestGuy.pdb
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\PriestGuy\obj\Debug\PriestGuy.dll
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\PriestGuy\obj\Debug\PriestGuy.pdb
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\PriestGuy\obj\Debug\PriestGuy.csproj.GenerateResource.Cache
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\PriestGuy\obj\Debug\PriestGuy.Settings.FormSettings.resources
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\PriestGuy\obj\Debug\PriestGuy.Properties.Resources.resources
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\PriestGuy\obj\Debug\PriestGuy.csprojResolveAssemblyReference.cache
