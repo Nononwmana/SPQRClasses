@@ -7,3 +7,5 @@ C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\PriestGuy\obj\Release\PriestGuy
 C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\PriestGuy\obj\Release\PriestGuy.pdb
 C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\Builds\PriestGuy.dll
 C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\Builds\PriestGuy.pdb
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\Combats\SPQR\PriestGuy\PriestGuy.dll
+C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\Combats\SPQR\PriestGuy\PriestGuy.pdb

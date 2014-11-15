@@ -26,7 +26,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\Builds\</OutputPath>
+    <OutputPath>..\Combats\SPQR\PriestGuy\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -85,7 +85,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>xcopy /Y "C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\Builds\PriestGuy.dll" "C:\Users\Nonowmana\Desktop\New Release\Combats\SPQR\PriestGuy\"</PostBuildEvent>
+    <PostBuildEvent>xcopy /Y "C:\Users\Nonowmana\Desktop\MyClasses\SPQRClasses\Combats\SPQR\PriestGuy\PriestGuy.dll" "C:\Users\Nonowmana\Desktop\New Release\Combats\SPQR\PriestGuy\"</PostBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
